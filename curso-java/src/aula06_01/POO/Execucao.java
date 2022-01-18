@@ -1,4 +1,4 @@
-package aula06.POO;
+package aula06_01.POO;
 
 public class Execucao {
 
@@ -20,8 +20,7 @@ public class Execucao {
 		
 		System.out.println("\n"+p1.mesTaPago());
 		System.out.println(p2.mesTaPago());
-		
-		
+	
 		
 	}
 }
